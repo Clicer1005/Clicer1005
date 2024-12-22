@@ -1,16 +1,17 @@
-## Hi there 👋
 
-<!--
-**Clicer1005/Clicer1005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Thats me!
 
-Here are some ideas to get you started:
+## I'm Marc! 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 🚀 About Me
+I am a learning developer that just started developing in the web industry.
+
+
+
+## 🛠 What I am learning currently
+
+- Laravel
+- PHP
+- HTML
+- Tailwindcss
